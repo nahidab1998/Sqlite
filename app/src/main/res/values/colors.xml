@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="appbar_color">#2397f1</color>
+    <color name="back_btn">#43A59F</color>
+    <color name="up_app"> #3b918b</color>
 </resources>
